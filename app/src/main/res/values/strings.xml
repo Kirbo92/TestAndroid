@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="dont_have_account">¿No tienes una cuenta?,</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="create_here">crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear cuenta</string>
+</resources>
