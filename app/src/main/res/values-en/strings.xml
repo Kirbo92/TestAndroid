@@ -13,4 +13,7 @@
     <string name="hint_confirm_password">Confirm password</string>
     <string name="text_button_createaccount">Join us</string>
     <string name="toolbar_tittle_createaccount">Create Account</string>
+    <string name="userNameCard">Miguel Ángel Fernandez</string>
+    <string name="firstword_card">hace</string>
+    <string name="timecard_card">4 días</string>
 </resources>
